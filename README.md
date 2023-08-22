@@ -1,0 +1,1 @@
+This project is called Recipes and is part of an assignment to test my HTML abilities.
